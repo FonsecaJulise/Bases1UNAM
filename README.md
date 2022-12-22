@@ -1,2 +1,4 @@
-# Bases de datos, Facultad de Ingeniería UNAM
-Repositorio para la asignatura de bases de datos, Ing Fernando Arreola
+## <div> Bases de datos: Grupo 1, Facultad de Ingeniería UNAM <img style="float: right;" src="/img/fi.png"></div>
+
+# Ing. Fernando Arreola
+Repositorio de la asignatura, semestre 2023-1
